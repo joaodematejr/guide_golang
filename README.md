@@ -11,7 +11,11 @@ Guia básico de estudo sobre a linguagem de programação Go (Golang)
     - [X] Pacotes
     - [X] Ponteiros
     - [X] Variáveis e Tipos de Dados
-- [ ] Estruturas de Dados e Tipos
+- [X] Estruturas de Dados e Tipos
+    - [X] Arrays e Slices
+    - [X] Mapas
+    - [X] Structs
+    - [X] Variáveis e Tipos Básicos
 - [ ] Funções e Pacotes
 - [ ] Concorrência e Goroutines
 - [ ] Testes e Benchmarking
