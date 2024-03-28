@@ -18,7 +18,7 @@ Guia básico de estudo sobre a linguagem de programação Go (Golang)
     - [X] Variáveis e Tipos Básicos
 - [X] Funções e Pacotes
 - [X] Concorrência e Goroutines
-- [ ] Testes e Benchmarking
+- [X] Testes e Benchmarking
 - [ ] Manipulação de Arquivos e Entrada/Saída
 - [ ] Trabalhando com HTTP
 - [ ] Banco de Dados e ORM
