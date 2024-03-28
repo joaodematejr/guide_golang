@@ -20,7 +20,7 @@ Guia básico de estudo sobre a linguagem de programação Go (Golang)
 - [X] Concorrência e Goroutines
 - [X] Testes e Benchmarking
 - [X] Manipulação de Arquivos e Entrada/Saída
-- [ ] Trabalhando com HTTP
+- [X] Trabalhando com HTTP
 - [ ] Banco de Dados e ORM
 - [ ] Projetos Práticos
 - [ ] Comunidade e Recursos Online
