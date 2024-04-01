@@ -1,0 +1,24 @@
+Fórum oficial do Golang:
+
+O fórum oficial do Go é um ótimo lugar para fazer perguntas, obter suporte e participar de discussões com outros desenvolvedores Go: https://forum.golangbridge.org/
+Subreddit r/golang:
+
+O subreddit r/golang é uma comunidade ativa onde você pode encontrar notícias, discussões, perguntas e respostas sobre Go: https://www.reddit.com/r/golang/
+Gopher Slack:
+
+O Gopher Slack é uma comunidade Slack muito ativa, onde desenvolvedores Go de todos os níveis se reúnem para discutir tópicos relacionados à linguagem, compartilhar recursos e projetos: https://invite.slack.golangbridge.org/
+Golang Weekly:
+
+Golang Weekly é um boletim semanal que traz as últimas notícias, artigos e projetos interessantes relacionados ao Go: https://golangweekly.com/
+GitHub:
+
+O GitHub é uma fonte rica de projetos, bibliotecas e ferramentas relacionadas ao Go. Explore repositórios públicos, contribua com projetos e siga desenvolvedores influentes na comunidade Go: https://github.com/topics/golang
+Golang Wiki:
+
+A Wiki oficial do Go contém uma variedade de recursos, tutoriais e informações úteis para ajudá-lo a aprender e explorar a linguagem: https://github.com/golang/go/wiki
+GolangBR:
+
+GolangBR é uma comunidade brasileira dedicada ao Go. Eles têm um fórum ativo, grupos de estudo e eventos frequentes onde você pode se conectar com outros desenvolvedores Go no Brasil: https://forum.golangbr.org/
+Golang Facebook Group:
+
+O grupo de Facebook "Golang" é outro espaço onde você pode se conectar com desenvolvedores Go, fazer perguntas e compartilhar seu conhecimento: https://www.facebook.com/groups/golang/
