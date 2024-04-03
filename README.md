@@ -32,9 +32,9 @@ Guia básico de estudo sobre a linguagem de programação Go (Golang)
 - [X] Desempenho e Otimização
 - [X] Padrões de Design Avançados
 - [X] Web Development e APIs Avançadas
-- [ ] Testes Avançados
-- [ ] Desenvolvimento de Aplicações Distribuídas
-- [ ] Segurança em Go
+- [X] Testes Avançados
+- [X] Aplicações Distribuídas
+- [X] Segurança em Go
 - [ ] Contribuição para o Ecossistema Go
 
 
